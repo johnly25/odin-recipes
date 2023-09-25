@@ -1,0 +1,32 @@
+body {
+    font-family: helvetica;
+}
+
+.navigator {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.navigator a{
+    text-transform: uppercase;
+}
+
+.food-title span h1, .food-title span img{
+    display: inline;
+    padding: auto;
+    height: 200px;
+}
+
+.food-title span img {
+    float:right;
+}
+
+div.food-container {
+    margin: 0 500px;
+    border-style: solid;
+    padding: 15px 50px;
+}
+
+.steps li{
+    padding: 10px 0px;
+}
